@@ -13,3 +13,18 @@ C:\Users\krist\Desktop\C#\1. C# Primer\obj\Debug\net7.0\refint\1. C# Primer.dll
 C:\Users\krist\Desktop\C#\1. C# Primer\obj\Debug\net7.0\1. C# Primer.pdb
 C:\Users\krist\Desktop\C#\1. C# Primer\obj\Debug\net7.0\1. C# Primer.genruntimeconfig.cache
 C:\Users\krist\Desktop\C#\1. C# Primer\obj\Debug\net7.0\ref\1. C# Primer.dll
+C:\Users\kriss\Desktop\C#\1.-C-Primer\bin\Debug\net7.0\1. C# Primer.exe
+C:\Users\kriss\Desktop\C#\1.-C-Primer\bin\Debug\net7.0\1. C# Primer.deps.json
+C:\Users\kriss\Desktop\C#\1.-C-Primer\bin\Debug\net7.0\1. C# Primer.runtimeconfig.json
+C:\Users\kriss\Desktop\C#\1.-C-Primer\bin\Debug\net7.0\1. C# Primer.dll
+C:\Users\kriss\Desktop\C#\1.-C-Primer\bin\Debug\net7.0\1. C# Primer.pdb
+C:\Users\kriss\Desktop\C#\1.-C-Primer\obj\Debug\net7.0\1. C# Primer.csproj.AssemblyReference.cache
+C:\Users\kriss\Desktop\C#\1.-C-Primer\obj\Debug\net7.0\1. C# Primer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kriss\Desktop\C#\1.-C-Primer\obj\Debug\net7.0\1. C# Primer.AssemblyInfoInputs.cache
+C:\Users\kriss\Desktop\C#\1.-C-Primer\obj\Debug\net7.0\1. C# Primer.AssemblyInfo.cs
+C:\Users\kriss\Desktop\C#\1.-C-Primer\obj\Debug\net7.0\1. C# Primer.csproj.CoreCompileInputs.cache
+C:\Users\kriss\Desktop\C#\1.-C-Primer\obj\Debug\net7.0\1. C# Primer.dll
+C:\Users\kriss\Desktop\C#\1.-C-Primer\obj\Debug\net7.0\refint\1. C# Primer.dll
+C:\Users\kriss\Desktop\C#\1.-C-Primer\obj\Debug\net7.0\1. C# Primer.pdb
+C:\Users\kriss\Desktop\C#\1.-C-Primer\obj\Debug\net7.0\1. C# Primer.genruntimeconfig.cache
+C:\Users\kriss\Desktop\C#\1.-C-Primer\obj\Debug\net7.0\ref\1. C# Primer.dll
