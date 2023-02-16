@@ -65,6 +65,7 @@ class Program
         weatherData.Temperature = 80.0;
 
         Console.WriteLine("Temperature: {0} {1}", weatherData.Temperature, weatherData.Scale);
+        Console.ReadLine();
 
     }
 

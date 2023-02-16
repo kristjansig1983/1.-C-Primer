@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\kriss\\Desktop\\C#\\1.-C-Primer\\1. C# Primer.csproj": {}
+    "C:\\Users\\krist\\Desktop\\C#\\1. C# Primer\\1. C# Primer.csproj": {}
   },
   "projects": {
-    "C:\\Users\\kriss\\Desktop\\C#\\1.-C-Primer\\1. C# Primer.csproj": {
+    "C:\\Users\\krist\\Desktop\\C#\\1. C# Primer\\1. C# Primer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kriss\\Desktop\\C#\\1.-C-Primer\\1. C# Primer.csproj",
+        "projectUniqueName": "C:\\Users\\krist\\Desktop\\C#\\1. C# Primer\\1. C# Primer.csproj",
         "projectName": "1. C# Primer",
-        "projectPath": "C:\\Users\\kriss\\Desktop\\C#\\1.-C-Primer\\1. C# Primer.csproj",
-        "packagesPath": "C:\\Users\\kriss\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kriss\\Desktop\\C#\\1.-C-Primer\\obj\\",
+        "projectPath": "C:\\Users\\krist\\Desktop\\C#\\1. C# Primer\\1. C# Primer.csproj",
+        "packagesPath": "C:\\Users\\krist\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\krist\\Desktop\\C#\\1. C# Primer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\kriss\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\krist\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"

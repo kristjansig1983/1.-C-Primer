@@ -1,4 +1,4 @@
-﻿using System;
+﻿/* using System;
 using System.Collections.Generic;
 
 class NumberList
@@ -33,25 +33,8 @@ class NumberList
             Console.ReadLine();
             return;
         }
-
-        int largest = numbers[0];
-        int smallest = numbers[0];
-
-        foreach (int number in numbers)
-        {
-            if (number > largest)
-            {
-                largest = number;
-            }
-
-            if (number < smallest)
-            {
-                smallest = number;
-            }
-        }
-
-        Console.WriteLine($"The largest number you entered is {largest}.");
-        Console.WriteLine($"The smallest number you entered is {smallest}.");
+         Console.WriteLine($"The largest number you entered is {numbers.Max()}.");
+        Console.WriteLine($"The smallest number you entered is {numbers.Min()}.");
         Console.ReadLine();
     }
-}
+} */
